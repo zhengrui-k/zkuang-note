@@ -19,7 +19,10 @@ https://blog.csdn.net/u011119817/article/details/130745551
 
 ### typora
 
-- 激活: https://github.com/markyin0707/typora-activation
+- active: https://github.com/markyin0707/typora-activation
+- image configuration
+
+![image-20240703000328251](./env/image-20240703000328251.png)
 
 
 
