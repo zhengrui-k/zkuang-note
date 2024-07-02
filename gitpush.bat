@@ -7,10 +7,9 @@ echo;
 
 echo "Commit the changes to the local repository"
 echo "please enter the commit info...."
-set /p message=
 set now=%date% %time%
 echo %now%
-git commit -m "%now% %message%"
+git commit -m "%now% auto-commit"
 echo;
  
 echo "Commit the changes to the remote git server"
