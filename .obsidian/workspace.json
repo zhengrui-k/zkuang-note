@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "66f46a7efafe6e13",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0abba49f506bc59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c280f7b38cd9f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "env.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c047a803590fd5fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "594e009cadbca276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1603c592ab5a26a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83c8c4c482150a84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a615d983b6b81ba6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a3263bbf79435e4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8a1657ffaab53d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74ded72cab69fa1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "env.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4c27e01b69f1db9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "env.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9aa5c46e08358c29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc25e84f31173a40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "env.md"
+              }
+            }
+          },
+          {
+            "id": "c433286b08b54784",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "9c280f7b38cd9f87",
+  "lastOpenFiles": [
+    "thread.md",
+    "NIHAO.md",
+    "create a link.md"
+  ]
+}
